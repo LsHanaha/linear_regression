@@ -1,0 +1,5 @@
+venv/*
+result.json
+.DS_Store
+.idea/*
+__pycache__/*
