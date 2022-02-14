@@ -1,5 +1,5 @@
 Usage:
-python version 3.5+
+python version 3.7+
 
 pip install -r requirements.txt
 
